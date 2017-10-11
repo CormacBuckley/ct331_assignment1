@@ -4,7 +4,5 @@
 void runTests(){
   printf("Tests running...\n");
 
-  //...
-
   printf("\nTests complete.\n");
 }
